@@ -1,10 +1,10 @@
 # #!/bin/bash
 
 ## 💲Everything Bash
-
+**
     []: # Language: bash
     []: # Path: everything-bash.sh
-    #!/bin/bash
+    #!/bin/bash**
 
 1. [traditional Hello world script](./helloWorld.sh)
 
