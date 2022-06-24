@@ -86,3 +86,20 @@ while [ $val == "hello" ]; do echo "Hello World"; done
 ```
 
 <!-- for loops -->
+**For Loops**
+
+```bash
+#!/bin/bash
+for i in {1..10}; do
+    echo "Hello World"
+done
+```
+> here `{1..10}` is a range, of numbers from 1 to 10.
+> a to z;
+
+```bash
+#!/bin/bash
+for i in {a..z}; do
+echo $i;
+done
+```
